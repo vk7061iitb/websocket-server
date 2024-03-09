@@ -21,3 +21,19 @@ To run this WebSocket chat application, follow these steps:
 1. **Setup**: Make sure you have Node.js installed on your system.
 
 2. **Installation**: Install the `ws` library using npm:
+   
+3. **Running the Server**: Save the server-side code in a file named `server.js`. Run the server using Node.js:
+
+4. **Accessing the Client**: Save the client-side code in an HTML file. Open the HTML file in a web browser (you can open multiple instances for multiple clients).
+
+5. **Start Chatting**: Type a message in the input field, click send, and see the message appear in all connected clients in real-time.
+
+## Files
+
+- `server.js`: Server-side code written in Node.js using the `ws` library.
+- `index.html`: Client-side code written in HTML and JavaScript for the chat interface.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
