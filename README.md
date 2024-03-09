@@ -33,7 +33,3 @@ To run this WebSocket chat application, follow these steps:
 - `server.js`: Server-side code written in Node.js using the `ws` library.
 - `index.html`: Client-side code written in HTML and JavaScript for the chat interface.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
